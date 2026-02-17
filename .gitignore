@@ -1,0 +1,14 @@
+# Python & Colab
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# Data Files (PENTING: Jangan upload data raster/shp)
+*.tif
+*.tiff
+*.shp
+*.shx
+*.dbf
+*.csv
+*.prj
+*.geojson
