@@ -94,4 +94,4 @@ Universitas Gadjah Mada (UGM)
 Kode ini didistribusikan di bawah **MIT License**.
 Jika Anda menggunakan metode ini untuk penelitian, silakan sitasi repositori ini:
 
-> Arifudin, J. (2026). *Koreksi Bias CHIRPS Menggunakan Linear Scaling*. GitHub Repository.
+> Arifudin, J. (2026). *Koreksi Bias Data CHIRPS: Metode Linear Scaling (Time-Variant)*. GitHub Repository.
